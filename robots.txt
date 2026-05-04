@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://section21.info/sitemap.xml
